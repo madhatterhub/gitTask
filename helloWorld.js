@@ -1,1 +1,2 @@
-console.log("Git is Awesome!");
+userInput = prompt("What would you like to say?")
+console.log(userInput);
